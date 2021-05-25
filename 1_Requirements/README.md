@@ -4,6 +4,7 @@
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
 ### *Functional Requirements*
 1) **System Interface Requirement**
+
     i) **User Interfaces**
         API can be used for many applications. One of the applications of this API is an android app which
         sends an image from phone gallery to the server via API call and receives an image with all the
