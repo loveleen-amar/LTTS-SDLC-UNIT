@@ -29,12 +29,11 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
      
 
   **ii) Hardware Interfaces**
+  * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
   
-        * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
-        
-        * Programmable devices to send the image to API dynamically.
-        
-        * Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
+  * Programmable devices to send the image to API dynamically.
+  
+  * Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
         
   **iii) Software Interfaces**
         This API requires internet drivers at client-side and any programming language which supports
