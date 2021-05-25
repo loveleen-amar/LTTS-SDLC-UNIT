@@ -1,6 +1,48 @@
 # Requirements
 
 ## Introduction
+Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
+### *Functional Requirements*
+1) **System Interface Requirement**
+    i) User Interfaces
+        API can be used for many applications. One of the applications of this API is an android app which
+        sends an image from phone gallery to the server via API call and receives an image with all the
+        objects detected.
+
+        1. Install the android app and select image from gallery.
+        2. Select a photo from the gallery.
+        3. Send and wait for the response image.
+
+    ii) Hardware Interfaces
+        ● Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
+        ● Programmable devices to send the image to API dynamically.
+        ● Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
+        
+    iii) Software Interfaces
+        This API requires internet drivers at client-side and any programming language which supports
+        network programming. However, the application of this API can have vivid requirements. For
+        example, the android app requires Android OS, access to camera and gallery & access to use the
+        internet.
+        
+    iv) Communications Interfaces
+        Internet connection is required for frequent upload and download of image stream bytes to/from the
+        server. Every request requires the client to be connected to the internet to make an API call.
+
+
+2) **Legal or Regulatory Requirements**
+    i) Sending data:
+        A valid image file should be sent to the server at a sufficient interval depending on the
+        image size. Invalid images or any other file types will be discarded.
+   ii) Invalid Image File :
+        In case of invalid image file, the server will respond with an error message stating
+        “Invalid Image Type”.
+### *Non-Functional Requirements*
+1) **Security Requirements**
+There is no privacy issue as the images sent to the server are not stored anywhere in the database. Also, the API requires data to be sent over https connection thus it is secured from man-in-the-middle attack. However, other applications of this API could pose security threats which the API is not responsible for.
+
+
+Since the system uses only open source software, it is free of cost..!!
+
 * Knowing the units of measurement that correspond with a number can give you so much more information than a digit as a standalone. 
 
 * In a nutshell, the unit of measurement in science and math serves as the supporting pillar upon which a number rests.
