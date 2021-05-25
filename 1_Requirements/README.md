@@ -4,7 +4,7 @@
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
 ### *Functional Requirements*
 1) **System Interface Requirement**
-    i) User Interfaces
+    i) **User Interfaces**
         API can be used for many applications. One of the applications of this API is an android app which
         sends an image from phone gallery to the server via API call and receives an image with all the
         objects detected.
@@ -13,27 +13,27 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
         2. Select a photo from the gallery.
         3. Send and wait for the response image.
 
-    ii) Hardware Interfaces
-        ● Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
-        ● Programmable devices to send the image to API dynamically.
-        ● Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
+    ii) **Hardware Interfaces**
+        * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
+        * Programmable devices to send the image to API dynamically.
+        * Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
         
-    iii) Software Interfaces
+    iii) **Software Interfaces**
         This API requires internet drivers at client-side and any programming language which supports
         network programming. However, the application of this API can have vivid requirements. For
         example, the android app requires Android OS, access to camera and gallery & access to use the
         internet.
         
-    iv) Communications Interfaces
+    iv) **Communications Interfaces**
         Internet connection is required for frequent upload and download of image stream bytes to/from the
         server. Every request requires the client to be connected to the internet to make an API call.
 
 
 2) **Legal or Regulatory Requirements**
-    i) Sending data:
+    i) **Sending data:**
         A valid image file should be sent to the server at a sufficient interval depending on the
         image size. Invalid images or any other file types will be discarded.
-   ii) Invalid Image File :
+   ii) **Invalid Image File :**
         In case of invalid image file, the server will respond with an error message stating
         “Invalid Image Type”.
 ### *Non-Functional Requirements*
