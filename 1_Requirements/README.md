@@ -45,10 +45,12 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
 
 
 2) **Legal or Regulatory Requirements**
-    i) **Sending data:**
+
+    * **Sending data:**
         A valid image file should be sent to the server at a sufficient interval depending on the
         image size. Invalid images or any other file types will be discarded.
-   ii) **Invalid Image File :**
+        
+    * **Invalid Image File :**
         In case of invalid image file, the server will respond with an error message stating
         “Invalid Image Type”.
 ### *Non-Functional Requirements*
