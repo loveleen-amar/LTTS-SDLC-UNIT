@@ -10,11 +10,13 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
         sends an image from phone gallery to the server via API call and receives an image with all the
         objects detected.
 
-        
+     **1. Install the android app and select image from gallery.** 
      ![1. Install the android app and select image from gallery.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG)
-        
+     
+     **2. Select a photo from the gallery.**
      ![2. Select a photo from the gallery.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/2.JPG)
      
+     **3. Send and wait for the response image.**
      ![3. Send and wait for the response image.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/3.JPG)
 
     ii) **Hardware Interfaces**
@@ -45,19 +47,6 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
 There is no privacy issue as the images sent to the server are not stored anywhere in the database. Also, the API requires data to be sent over https connection thus it is secured from man-in-the-middle attack. However, other applications of this API could pose security threats which the API is not responsible for.
 
 
-Since the system uses only open source software, it is free of cost..!!
-
-* Knowing the units of measurement that correspond with a number can give you so much more information than a digit as a standalone. 
-
-* In a nutshell, the unit of measurement in science and math serves as the supporting pillar upon which a number rests.
-
-* **Unit conversion** is a process that involves multiplication or division by a numerical factor.
-
-* With the global flow of information that occurs these days, it is very important for everyone to learn these most basic conversion factors.
-
-* Keeping in mind all the conversion and inter-conversion processes may not be easy for everyone.
-
-* A metric conversion calculator is a tool that renders a helping hand by doing metric conversions in few seconds.
 
 ## Research
 * During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
