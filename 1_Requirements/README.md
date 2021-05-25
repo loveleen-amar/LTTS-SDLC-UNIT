@@ -11,7 +11,7 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
         objects detected.
 
      **1. Install the android app and select image from gallery.** 
-     ![1. Install the android app and select image from gallery.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG {width=40px height=100px})
+     ![1. Install the android app and select image from gallery.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG){:height="36px" width="36px"}
      
      
      
