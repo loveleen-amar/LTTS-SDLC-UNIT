@@ -5,7 +5,7 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
 ### *Functional Requirements*
 1) **System Interface Requirement**
 
-   * **i) User Interfaces**
+  * **User Interfaces**
         API can be used for many applications. One of the applications of this API is an android app which
         sends an image from phone gallery to the server via API call and receives an image with all the
         objects detected.
@@ -28,18 +28,18 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
      <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/3.JPG" width="400">
      
 
-  * **ii) Hardware Interfaces**
+  * **Hardware Interfaces**
         * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
         * Programmable devices to send the image to API dynamically.
         * Devices able to process graphical matrix(image) eg. Raspberry Pi, Arduino etc.
         
-   * **iii) Software Interfaces**
+  * **Software Interfaces**
         This API requires internet drivers at client-side and any programming language which supports
         network programming. However, the application of this API can have vivid requirements. For
         example, the android app requires Android OS, access to camera and gallery & access to use the
         internet.
         
-   * **iv) Communications Interfaces**
+  * **Communications Interfaces**
         Internet connection is required for frequent upload and download of image stream bytes to/from the
         server. Every request requires the client to be connected to the internet to make an API call.
 
