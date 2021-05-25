@@ -10,9 +10,13 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
         sends an image from phone gallery to the server via API call and receives an image with all the
         objects detected.
 
-        1. Install the android app and select image from gallery.
-        2. Select a photo from the gallery.
-        3. Send and wait for the response image.
+        
+        ![1. Install the android app and select image from gallery.](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG)
+        
+
+        
+        3. Select a photo from the gallery.
+        4. Send and wait for the response image.
 
     ii) **Hardware Interfaces**
         * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
