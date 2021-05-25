@@ -12,18 +12,14 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
 
      **1. Install the android app and select image from gallery.** 
         
-     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG" width="300">  
-     
-     ![1](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG)
-      
-     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/2.JPG" width="300">  
+     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG" width="500">  
+
      **2. Select a photo from the gallery.**
-     ![2](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/2.JPG)
-     
-     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/3.JPG" width="300">
+     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/2.JPG" width="400">  
      
      **3. Send and wait for the response image.**
-     ![3](https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/3.JPG)
+     <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/3.JPG" width="400">
+     
 
     ii) **Hardware Interfaces**
         * Any machine with Network Interface Card and Ethernet drivers to connect to the internet.
