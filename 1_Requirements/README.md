@@ -74,7 +74,7 @@ There is no privacy issue as the images sent to the server are not stored anywhe
 
 ## Cost and Features
 ### *Cost*
-Since the system uses only open source software, it is free of cost :)
+Since the system uses only open source software, it is free of cost :+1:
 
 *TBD*
 
