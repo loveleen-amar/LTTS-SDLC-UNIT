@@ -1,6 +1,6 @@
-# Requirements
+# Requirements 
 
-## Introduction
+## :pushpin: Introduction
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
 ### *Functional Requirements*
 1) **System Interface Requirement**
@@ -61,7 +61,7 @@ There is no privacy issue as the images sent to the server are not stored anywhe
 
 
 
-## Research
+## :pushpin: Research
 * Early works on object detection were based on template matching techniques and simple part-based models [e.g., Fischler and Elschlager (1973)] 
 
 * Later, methods based on statistical classifiers (e.g., Neural Networks, SVM, Adaboost, Bayes, etc.) were introduced [e.g., Osuna et al. (1997), Rowley et al. (1998), Sung and Poggio (1998), Schneiderman and Kanade (2000), Yang et al. (2000a,b)]
@@ -72,7 +72,7 @@ There is no privacy issue as the images sent to the server are not stored anywhe
  
 * Hence, this API is made to leverage the power of ML/DL for Object detection task for common people too, who can directly use the API and have results out of it without having any high-end system.
 
-## Cost and Features
+## :pushpin: Cost and Features
 ### *Cost*
 Since the system uses only open source software, it is free of cost :+1:
 
@@ -99,7 +99,7 @@ The folowing are the features of this API:
      3. Returns the new image to the client.
 
 
-## Defining the System
+## :pushpin: Defining the System :sunglasses:
 ### *Product Perspective*
 
 Currently, most of the Object detection softwares do all the computations on the devices they’re
@@ -115,13 +115,13 @@ provides the image with objects detected in only a few cycles of CPU.
   * All the computations are done at the server end.
   * YOLO v3.0 algorithm is used for the Object Detection Task.
 
-## SWOT ANALYSIS
+## :pushpin: SWOT ANALYSIS
 ![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
 
 
 
 
-# 4W&#39;s and 1&#39;H
+# :pushpin: 4W&#39;s and 1&#39;H 	:technologist:
 
 ## Who:
 
@@ -165,7 +165,7 @@ It can be used at places where research work projects are going on, or just if a
 
 Simple the user send an image to the API. Then the API, after authenticating the validity of image, sends it to server where the object detection task happens using DL model. Then the API returns the object detected image to the user.
 
-# Detail requirements
+# :pushpin: Detail requirements
 ## High Level Requirements:
 
 |      ID          |Description                          |Status                         |
