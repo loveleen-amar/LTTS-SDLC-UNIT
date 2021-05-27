@@ -92,11 +92,11 @@ The folowing are the features of this API:
 
   **2 Stimulus/Response Sequences**
   
-     * 1. Client send an image to the API.
+   * 1. Client send an image to the API.
 
-     * 2. API, after authenticating the validity of image, sends it to server.
+   * 2. API, after authenticating the validity of image, sends it to server.
 
-     * 3. Returns the new image to the client.
+   * 3. Returns the new image to the client.
 
 
 ## Defining the System
