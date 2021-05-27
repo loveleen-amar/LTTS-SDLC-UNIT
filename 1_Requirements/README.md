@@ -1,4 +1,4 @@
-# Requirements 
+# Requirements :clipboard:
 
 ## :pushpin: Introduction
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
@@ -99,7 +99,7 @@ The folowing are the features of this API:
      3. Returns the new image to the client.
 
 
-## :pushpin: Defining the System :sunglasses:
+## :pushpin: Defining the System 
 ### *Product Perspective*
 
 Currently, most of the Object detection softwares do all the computations on the devices they’re
@@ -121,7 +121,7 @@ provides the image with objects detected in only a few cycles of CPU.
 
 
 
-# :pushpin: 4W&#39;s and 1&#39;H 	:technologist:
+# :pushpin: 4W&#39;s and 1&#39;H 	
 
 ## Who:
 
