@@ -74,17 +74,28 @@ There is no privacy issue as the images sent to the server are not stored anywhe
 
 ## Cost and Features
 ### *Cost*
-Since the system uses only open source software, it is free of cost..!!
+Since the system uses only open source software, it is free of cost :)
 
 *TBD*
 
 ### *Features*
-The various features/options for interconversion of the system are:
-1. Length
-2. Area
-3. Volume
-4. Mass
-5. Speed
+The folowing are the features of this API:
+
+  **1 Description and Priority**
+
+  The main task of the API is to detect the objects present in the image and plot the boundary
+  box around them. When a client sends any image to the server via the API, the server calls
+  YOLO algorithm on the image to detect objects. It plots the boundary boxes and then revert
+  back the new image with detected objects to the client.
+  **Priority: High**
+
+  **2 Stimulus/Response Sequences**
+      1. Client send an image to the API.
+
+      2. API, after authenticating the validity of image, sends it to server.
+
+      3. Returns the new image to the client.
+
 
 ## Defining the System
 ![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
