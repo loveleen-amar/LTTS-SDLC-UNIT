@@ -92,16 +92,29 @@ The folowing are the features of this API:
 
   **2 Stimulus/Response Sequences**
   
-   * 1. Client send an image to the API.
+     1. Client send an image to the API.
 
-   * 2. API, after authenticating the validity of image, sends it to server.
+     2. API, after authenticating the validity of image, sends it to server.
 
-   * 3. Returns the new image to the client.
+     3. Returns the new image to the client.
 
 
 ## Defining the System
-![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
-    
+### *Product Perspective*
+
+Currently, most of the Object detection softwares do all the computations on the devices they’re
+installed on which can be slow due to low hardware specifications. The product proposed in this
+document overcomes this problem by doing all the computation at the server side and in return
+provides the image with objects detected in only a few cycles of CPU.
+
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/4.JPG" width="400"> 
+
+### *Product Functions*
+  * API accepts image of any extension and detects objects present in it.
+  * After detecting API, it returns the image with object detected in PNG format.
+  * All the computations are done at the server end.
+  * YOLO v3.0 algorithm is used for the Object Detection Task.
+
 ## SWOT ANALYSIS
 ![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
 
