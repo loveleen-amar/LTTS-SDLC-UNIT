@@ -107,7 +107,7 @@ installed on which can be slow due to low hardware specifications. The product p
 document overcomes this problem by doing all the computation at the server side and in return
 provides the image with objects detected in only a few cycles of CPU.
 
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/4.JPG" width="600"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/4.JPG" width="800"> 
 
 ### *Product Functions*
   * API accepts image of any extension and detects objects present in it.
