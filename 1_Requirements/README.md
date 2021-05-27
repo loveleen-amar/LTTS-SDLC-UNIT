@@ -62,19 +62,15 @@ There is no privacy issue as the images sent to the server are not stored anywhe
 
 
 ## Research
-* During the French Revolution, the then existing measurement system was so impractical for trade and scientific purposes. 
+* Early works on object detection were based on template matching techniques and simple part-based models [e.g., Fischler and Elschlager (1973)] 
 
-* So, it set the stage for the emergence of a system of measurement with rationally related units and simple rules for combining them.
+* Later, methods based on statistical classifiers (e.g., Neural Networks, SVM, Adaboost, Bayes, etc.) were introduced [e.g., Osuna et al. (1997), Rowley et al. (1998), Sung and Poggio (1998), Schneiderman and Kanade (2000), Yang et al. (2000a,b)]
 
-* Thus, a decimal based conversion system, called the Metric System,  was introduced and it was widely accepted by scientists of those days for being a rational system.
+* This initial successful family of object detectors, all of them based on statistical classifiers, set the ground for most of the following research in terms of training and evaluation procedures and classification techniques.
 
-* The metric system was devised with a aim “for all people, for all time.”
-
-* Today, the official system of measurement in most of the countries across the world is the metric system also known as the “International System of Units.
-
-* Though a standard system, there are many units within the metric systems and inter-conversion is tedious because one has to remember all the conversion factors.
-
-* Hence a tool that makes all these conversion immediately available will be a welcoming choice.
+* Since applying all these algorithms for the task of object detection is not possible for everyone, as all users cannot have that high-end systems.
+ 
+* Hence, this API is made to leverage the power of ML/DL for Object detection task for common people too, who can directly use the API and have results out of it without having any high-end system.
 
 ## Cost and Features
 ### *Cost*
