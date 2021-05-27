@@ -118,27 +118,52 @@ provides the image with objects detected in only a few cycles of CPU.
 ## SWOT ANALYSIS
 ![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
 
+
+
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-The tool is a helping hand for young children who would like to counter verify their conversions and also for scientific researchers and mathematicians.
+The API has the following levels of users described below:-
+
+* **LEVEL 1 user:**
+A first type of user of the API is a software developer who are building up big projects in which a
+part is of object detection , so the can integrate and object detection part using this. They should
+have the following technical skills:-
+  1. Generally has the skills and experience to design, construct, test, and maintain the software
+  systems;
+  2. Understands processes and procedures to compile, link and load software for embedded
+  systems;
+  3. Is proficient at writing software in the python language
+
+* **LEVEL 2 user:**
+The second type of users for this API is a students who required not to do heavy backend work and
+can simply use this API by accessing it through URL.
+
+
+* **LEVEL 3 user:**
+The third type of users for this API are typical internet users who only need to upload an image and
+wait for the results.
+
+
 
 ## What:
 
-A metric conversion calculator that does metric conversions in few seconds.
+This object detection API take in image as input and return an image with all the objects detected in it by just hitting a url.
 
 ## When:
 
-When people are struggling with simple conversions or when kids would like to cross verify their answers while practicing or when people need conversion results in a jiffy to proceed on further with their calculations. 
+When a particular student/developer wants to do object detection task in his/her big projects so he can easily use this api and integrate it in his project. 
+
 
 ## Where:
 
-Can be put to use where simple or advanced scientific and mathematic calculations requiring conversions are involved.
+It can be used at places where research work projects are going on, or just if a typical internet user wants to get all the objects out of an image wihout having any high-end system.
 
 ## How:
 
-The system opens up to the standard list of metric conversions that are available. Upon selection of one the standard system, the list of inter-conversions i.e., the sub-system is shown on the screen. The user can now choose one sub unit that needs to be converted into one or more other sub units that is available on the list.  The results for all these conversions are flashed in a second.
+Simple the user send an image to the API. Then the API, after authenticating the validity of image, sends it to server where the object detection task happens using DL model. Then the API returns the object detected image to the user.
 
 # Detail requirements
 ## High Level Requirements:
