@@ -2,7 +2,7 @@
 
 ## :pushpin: Introduction
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
-### *Functional Requirements*
+### :heavy_check_mark: *Functional Requirements*
 1) **System Interface Requirement**
 
    **i) User Interfaces**
@@ -55,7 +55,7 @@ Requirement analysis is the most important and fundamental stage in SDLC. The fo
     * **Invalid Image File :**
         In case of invalid image file, the server will respond with an error message stating
         “Invalid Image Type”.
-### *Non-Functional Requirements*
+### :heavy_check_mark: *Non-Functional Requirements*
 1) **Security Requirements**
 There is no privacy issue as the images sent to the server are not stored anywhere in the database. Also, the API requires data to be sent over https connection thus it is secured from man-in-the-middle attack. However, other applications of this API could pose security threats which the API is not responsible for.
 
@@ -73,12 +73,12 @@ There is no privacy issue as the images sent to the server are not stored anywhe
 * Hence, this API is made to leverage the power of ML/DL for Object detection task for common people too, who can directly use the API and have results out of it without having any high-end system.
 
 ## :pushpin: Cost and Features
-### *Cost*
+### :heavy_check_mark: *Cost*
 Since the system uses only open source software, it is free of cost :+1:
 
 *TBD*
 
-### *Features*
+### :heavy_check_mark: *Features*
 The folowing are the features of this API:
 
   **1 Description and Priority**
@@ -100,7 +100,7 @@ The folowing are the features of this API:
 
 
 ## :pushpin: Defining the System 
-### *Product Perspective*
+### :heavy_check_mark: *Product Perspective*
 
 Currently, most of the Object detection softwares do all the computations on the devices they’re
 installed on which can be slow due to low hardware specifications. The product proposed in this
@@ -109,7 +109,7 @@ provides the image with objects detected in only a few cycles of CPU.
 
 <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/4.JPG" width="800"> 
 
-### *Product Functions*
+### :heavy_check_mark: *Product Functions*
   * API accepts image of any extension and detects objects present in it.
   * After detecting API, it returns the image with object detected in PNG format.
   * All the computations are done at the server end.
@@ -123,7 +123,7 @@ provides the image with objects detected in only a few cycles of CPU.
 
 # :pushpin: 4W&#39;s and 1&#39;H 	
 
-## Who:
+## :heavy_check_mark: Who:
 
 The API has the following levels of users described below:-
 
@@ -148,25 +148,25 @@ wait for the results.
 
 
 
-## What:
+## :heavy_check_mark: What:
 
 This object detection API take in image as input and return an image with all the objects detected in it by just hitting a url.
 
-## When:
+## :heavy_check_mark: When:
 
 When a particular student/developer wants to do object detection task in his/her big projects so he can easily use this api and integrate it in his project. 
 
 
-## Where:
+## :heavy_check_mark: Where:
 
 It can be used at places where research work projects are going on, or just if a typical internet user wants to get all the objects out of an image wihout having any high-end system.
 
-## How:
+## :heavy_check_mark: How:
 
 Simple the user send an image to the API. Then the API, after authenticating the validity of image, sends it to server where the object detection task happens using DL model. Then the API returns the object detected image to the user.
 
 # :pushpin: Detail requirements
-## High Level Requirements:
+## :heavy_check_mark: High Level Requirements:
 
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
@@ -180,7 +180,7 @@ Simple the user send an image to the API. Then the API, after authenticating the
 
 
 
-##  Low level Requirements:
+## :heavy_check_mark: Low level Requirements:
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
 |LR_01|Meter|HR_01|Implemented|
