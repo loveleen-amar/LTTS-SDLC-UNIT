@@ -1,18 +1,19 @@
-# Object-Detection-API( )
+# Object-Detection-API
 
 This project introduces an API for object detection. The server will do all the heavy work for the client even if client has low-end system. This API can be used by anyone for the object detection task freely. 
 An image by the client will be sent to the API end-point in specific format and then API would do the object detection task and send back the object detected image. The received image will be obtained by the client with objects classified within that image. YOLO v3.0 is used as the object detection model.
 
 ## Folder Structure
-Folder                    | Description
-------------------- ------| -----------------------------------------
-`1_Requirements`          | Documents detailing requirements and research
-`2_Architecture`          | Documents specifying design details
-`3_Implementation`        | All code and documentation
-`4_Test_plan`             | Documents with test plans and procedures
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
 `5_Report`                | Report attached
 `6_Imagesand Videos`      | Images out the results
 `7_Others`                | other addons
+
 
 ## Setup Instructions
 
