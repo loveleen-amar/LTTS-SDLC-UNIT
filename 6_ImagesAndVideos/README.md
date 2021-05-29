@@ -11,5 +11,5 @@
    <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/6_ImagesAndVideos/app%20output.JPG" width="900">  
    
    
-   <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/6_ImagesAndVideos/app%20output.JPG" width="900">  
+   <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/6_ImagesAndVideos/app%20output2.JPG" width="900">  
      
