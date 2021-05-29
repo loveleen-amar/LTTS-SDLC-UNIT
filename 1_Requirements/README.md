@@ -1,6 +1,44 @@
 # Requirements :clipboard:
 
 ## :pushpin: Introduction
+
+### :heavy_check_mark:Feasibility Analysis:
+**1. Economic Feasibility:**
+1.	Training the object detection model requires High-end computers with GPU. Since there are free such online services available like Google CoLab, so it won’t cost anything.
+2.	Deployment of the API online on google cloud would require a nominal amount of charge but for alpha phase, deployment would be on non-GPU server which is free of cost.
+3.	To make the API public, we need a public IP and a domain name registered. It would cost a nominal amount of charge.
+4.	For one of the applications of the API, an android app would be built which doesn’t require any extra charge as Android Studio is publicly available to make commercial apps for free.
+5.	There is no paid softwares or framework being used.
+	So, our product (API) is economically feasible with minimum expense.
+
+**2.	Technical Feasibility:**
+  1.	Softwares and Frameworks:
+    a.	Python 3
+    b.	PyTorch
+    c.	Flask for API development
+    d.	Anaconda Package
+    e.	Android Studio
+    f.	Google Cloud bash
+  This all are freely available and have no other dependency
+  2.   Hardware:
+    a.	High performance Computers for Training (Provided by Google Colab and AI/DL Lab)
+  Every tools and algorithms are freely available for this project to work. Thus, this project is technically feasible.
+
+
+
+**3.	Marketing Feasibility:**
+  1.	This API can be used by many researchers and other people working on related projects for the task of object detection what may be a part of their requirement, using this would make their work easy as they need not have to work on backend servers for this task.
+  2.	As the user can choose any language for the object to be labelled with so this would help the local people too.
+  3.	It would be very helpful for the school students to use this API in their projects as it is free of cost for research work. But for commercial use, the company would be charged with nominal amount. 
+
+  So, this API is feasible in marketing as it has many users who would benefit from it.
+
+**4.	Legal Feasibility:**
+  1.	For training the model, publicly available dataset with MIT License will be used.
+  2.	There is no algorithm or software used that would give copyright issue.
+  3.	Users will be asked for their permission to use the images from their phone or captured through their Mobile Cameras. Without their consent, no data of them would be used
+
+
 Requirement analysis is the most important and fundamental stage in SDLC. The following are the set of requirements for the Object detection API:-
 ### :heavy_check_mark: *Functional Requirements*
 1) **System Interface Requirement**
