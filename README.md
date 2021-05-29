@@ -29,7 +29,7 @@ Folder             | Description
 ## Example
 
 After uploading photos, we get images with boundary boxes detected around it. For examples
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/output.JPG" width="450">
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/output.JPG" width="500">
 
 
 
