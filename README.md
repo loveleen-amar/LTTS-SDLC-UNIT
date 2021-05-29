@@ -26,9 +26,6 @@ Folder                    | Description
 * There is very basic Interface too for confirming the working of the API. After starting the server, goto `http://localhost:PORT` which in this case is 80. Thus, access the server simply by `http://locahost`.
 
 ## Example
-The basic web interface looks like:
-
-![](https://github.com/loveleen-amar/Object-Detection-API/tree/master/images/screen.png)
 
 After uploading photos, we get images with boundary boxes detected around it. For examples
 
