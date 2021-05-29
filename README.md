@@ -28,15 +28,8 @@ Folder                    | Description
 ## Example
 
 After uploading photos, we get images with boundary boxes detected around it. For examples
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/output.JPG" width="45%">
 
-<p align="center">
-<img src="https://github.com/loveleen-amar/Object-Detection-API/tree/master/images/input_1.jpg" width="45%">
-<img src="https://github.com/loveleen-amar/Object-Detection-API/tree/master/images/output_1.png" width="45%">
-<br>
-<br>
-<img src="https://github.com/loveleen-amar/Object-Detection-API/tree/master/images/input_2.jpeg" width="45%">
-<img src="https://github.com/loveleen-amar/Object-Detection-API/tree/master/images/output_2.png" width="45%">
-</p>
 
 
 ## Built With
