@@ -1,34 +1,39 @@
 # Architecture
 
 ## Use-Case Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/1.JPG" width="400">  
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/use_case.PNG" width="400">  
 
 ## DFD Diagrams
 
 
-
 ### High Level Behavioural Diagram
-![High Level Usecase Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/15e8ee9416ef51f4b49194c97292650a1f2ef02d/2_Architecture/behavior%20Diagrams/High_Level_Behavior.jpg)
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD1.PNG" width="400"> 
 
 ### Low Level Behavioural Diagram
-![Low Level Usecase Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/c5b39a89372be95f71196d3c4523df77be7f0f3f/2_Architecture/behavior%20Diagrams/Low_Level_Behavior.jpg)
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD3.PNG" width="400"> 
 
 ## State Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/State_diagram.PNG" width="400"> 
 
 ## Sequence Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/sequence.PNGG" width="400"> 
 
 ## Collaboration Diagram
-
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Collaboration.PNG" width="400"> 
 
 
 ## Activity Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/activity.PNG" width="400"> 
 
 ## Class Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Class%20diagram.JPG" width="400"> 
 
 
 ## Object Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/object%20diagram.JPG" width="400"> 
 
 ## Component Diagram
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/component%20diagram.JPG" width="400"> 
 
 
 
