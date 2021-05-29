@@ -116,7 +116,7 @@ provides the image with objects detected in only a few cycles of CPU.
   * YOLO v3.0 algorithm is used for the Object Detection Task.
 
 ## :pushpin: SWOT ANALYSIS
-![SWOT-Analysis](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/6f6972167470b4b186e9995b7a6647f3f8c7cbd5/1_Requirements/swot%20analysis.jpg)
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/1_Requirements/SWOT%20analysis%20with%20sticky%20notes.png" width="700">  
 
 
 
