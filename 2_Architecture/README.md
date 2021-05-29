@@ -10,7 +10,7 @@
 <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD1.PNG" width="800"> 
 
 ### Low Level DFD Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD3.PNG" width="850"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD3.PNG" width="925"> 
 
 ## State Diagram
 <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/State_diagram.PNG" width="750"> 
@@ -30,7 +30,7 @@
 
 
 ## Object Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/object%20diagram.JPG" width="750"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/object%20diagram.JPG" width="650"> 
 
 ## Component Diagram
 <img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/component%20diagram.JPG" width="750"> 
