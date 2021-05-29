@@ -61,5 +61,5 @@ After uploading photos, we get images with boundary boxes detected around it. Fo
 
 1. Reference requirements and architecture and test plan - [Manjari_AP](https://github.com/256152/Mini_Project_1_April_2021.git)
 2. Reference for High Level Requirements and Low Level Requirements Table - [arc-arnob](https://github.com/arc-arnob/LnT_Mini_Project.git)
-
+3. Reference for the work- the main repo is [here](https://github.com/loveleen-amar/Object-Detection-API)
 
