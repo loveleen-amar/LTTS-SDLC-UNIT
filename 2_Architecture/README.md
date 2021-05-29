@@ -1,39 +1,39 @@
 # Architecture
 
 ## Use-Case Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/use_case.PNG" width="400">  
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/use_case.PNG" width="750">  
 
 ## DFD Diagrams
 
 
 ### High Level Behavioural Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD1.PNG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD1.PNG" width="750"> 
 
 ### Low Level Behavioural Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD3.PNG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/DFD3.PNG" width="750"> 
 
 ## State Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/State_diagram.PNG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/State_diagram.PNG" width="750"> 
 
 ## Sequence Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/sequence.PNGG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/sequence.PNGG" width="750"> 
 
 ## Collaboration Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Collaboration.PNG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Collaboration.PNG" width="750"> 
 
 
 ## Activity Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/activity.PNG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/activity.PNG" width="750"> 
 
 ## Class Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Class%20diagram.JPG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/Class%20diagram.JPG" width="750"> 
 
 
 ## Object Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/object%20diagram.JPG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/object%20diagram.JPG" width="750"> 
 
 ## Component Diagram
-<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/component%20diagram.JPG" width="400"> 
+<img src="https://github.com/loveleen-amar/LTTS-SDLC-UNIT/blob/main/2_Architecture/component%20diagram.JPG" width="750"> 
 
 
 
