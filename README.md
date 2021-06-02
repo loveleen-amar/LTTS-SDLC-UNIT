@@ -47,7 +47,7 @@ After uploading photos, we get images with boundary boxes detected around it. Fo
 * [ ] Host the API on Heroku.
 
 ## Authors
-* **Loveleen Amar** [LinkedIn](https://www.linkedin.com/in/loveleen-amar/) | [GitHub](https://github.com/loveleen-amar)
+* **Loveleen Amar** [LinkedIn](https://www.linkedin.com/in/loveleen-amar) | [GitHub](https://github.com/loveleen-amar)
 
 
 
