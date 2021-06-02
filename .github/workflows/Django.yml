@@ -28,11 +28,5 @@ jobs:
         python -m pip install django
         
     - name: Django Action
-    - uses: loveleen/django_action@v1.1
-      with:
-        # Commit message of the changed data
-        commit_message: "Recent commit"
-        # Path relative to the repository root, where the requirements.txt is located
-        pip_path: "https://github.com/loveleen-amar/LTTS-SDLC-UNIT/"
-        # Path to the folder where manage.py is located
-        project_path: "https://github.com/loveleen-amar/LTTS-SDLC-UNIT/"
+    - uses: noah-software/django_action@v1.1
+
